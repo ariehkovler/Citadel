@@ -20,7 +20,6 @@ materials:
   flasher: DIAMOND_BLOCK
 additionalSecurable:
 - BED_BLOCK
-- BOOKSHELF
 - BEACON
 - ANVIL
 nonReinforceable:
