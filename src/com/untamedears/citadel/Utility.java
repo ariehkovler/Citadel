@@ -464,9 +464,7 @@ public class Utility {
     }
 
     public static boolean isDirtPlant(Material mat) {
-        return mat.equals(Material.SUGAR_CANE_BLOCK)
-            || mat.equals(Material.MELON_BLOCK)
-            || mat.equals(Material.PUMPKIN);
+        return mat.equals(Material.SUGAR_CANE_BLOCK);
     }
 
     public static boolean isGrassPlant(Material mat) {
